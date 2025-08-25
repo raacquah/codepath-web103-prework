@@ -1,10 +1,10 @@
 # WEB103 Prework - *Creatorverse*
 
-Submitted by: **Tram Tran**
+Submitted by: **Richmond Acquah**
 
-About this web app: **Creatorverse is a React-based web application that connects users with their favorite content creators. The app features a logical component structure and provides an intuitive interface for browsing, viewing, and managing content creator profiles.**
+About this web app: **Creatorverse's core mission is to serve as a centralized hub that bridges the gap between audiences and the vast world of content creators. The application is designed not just for passively consuming information but for actively discovering, tracking, and engaging with a diverse array of digital innovators, artists, and personalities..**
 
-Time spent: **5** hours
+Time spent: **10** hours
 
 ## Required Features
 
@@ -28,23 +28,18 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [x] Gradient, centered heading – The main heading “Creatorverse” now has a blue-to-indigo gradient and is centered for better visual appeal.
-* [x] Light blue background – The app has a soft light-blue background (bg-blue-100) for a cleaner, more inviting look.
-* [x] Centered buttons – All action buttons (Add Creator, Edit, Delete) are centered and visually consistent.
-* [x] Styled Creator cards – Creator cards have padding, rounded corners, shadow, and hover effects to improve readability and interactivity.
-* [x] Responsive layout – Creator cards wrap to fit different screen sizes, making the app mobile-friendly.
-* [x] Loading indicators – A simple “Loading…” message appears when fetching data from the database.
+* [x] Integrated Tailwind CSS for interactive and compelling UI.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
 
 <div>
-    <a href="https://www.loom.com/share/db84dc71585b4835bcdf216b7f423551">
-      <p>Video Walkthrough - CodePath WEB103 Prework </p>
+    <a href="https://www.loom.com/share/f8a9d9821a844d4ab7c1b52b9caa884c">
+      <p>WEB103 Video Walkthrough - Watch Video</p>
     </a>
-    <a href="https://www.loom.com/share/db84dc71585b4835bcdf216b7f423551">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/db84dc71585b4835bcdf216b7f423551-ce1a87af1dbb9ce0-full-play.gif">
+    <a href="https://www.loom.com/share/f8a9d9821a844d4ab7c1b52b9caa884c">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/f8a9d9821a844d4ab7c1b52b9caa884c-af6fc9c5cece27ec-full-play.gif">
     </a>
   </div>
 
@@ -52,11 +47,11 @@ GIF created with Loom.
 
 ## Notes
 
-Ensuring that forms for adding and editing creators worked correctly with state management, async/await API calls, and navigation required careful handling of inputs and updating the database reliably.
+Managing form inputs, especially for both creating and editing, can quickly become complex.
 
 ## License
 
-Copyright 2025 Tram Tran
+Copyright 2025 Richmond Acquah
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
