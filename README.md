@@ -1,14 +1,10 @@
-# WEB103 Prework - *Creatorverse*
-
-Submitted by: **Richmond Acquah**
+# *Creatorverse*
 
 About this web app: **Creatorverse's core mission is to serve as a centralized hub that bridges the gap between audiences and the vast world of content creators. The application is designed not just for passively consuming information but for actively discovering, tracking, and engaging with a diverse array of digital innovators, artists, and personalities..**
 
-Time spent: **10** hours
 
-## Required Features
 
-The following **required** functionality is completed:
+The following functionality is included:
 
 - [x] **A logical component structure in React is used to create the frontend of the app**
 - [x] **At least five content creators are displayed on the homepage of the app**
@@ -19,16 +15,7 @@ The following **required** functionality is completed:
 - [x] **The user can edit a content creator to change their name, url, or description**
 - [x] **The user can delete a content creator**
 - [x] **The user can add a new content creator by entering a name, url, or description and then it is displayed on the homepage**
-
-The following **optional** features are implemented:
-
-- [ ] Picocss is used to style HTML elements
-- [ ] The content creator items are displayed in a creative format, like cards instead of a list
-- [ ] An image of each content creator is shown on their content creator card
-
-The following **additional** features are implemented:
-
-* [x] Integrated Tailwind CSS for interactive and compelling UI.
+- [x] Integrated Tailwind CSS for interactive and compelling UI.
 
 ## Video Walkthrough
 
