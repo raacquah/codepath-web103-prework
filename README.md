@@ -23,7 +23,7 @@ Here's a walkthrough of implemented required features:
 
 <div>
     <a href="https://www.loom.com/share/f8a9d9821a844d4ab7c1b52b9caa884c">
-      <p>WEB103 Video Walkthrough - Watch Video</p>
+      <p>Creatorverse Video Walkthrough - Watch Video</p>
     </a>
     <a href="https://www.loom.com/share/f8a9d9821a844d4ab7c1b52b9caa884c">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/f8a9d9821a844d4ab7c1b52b9caa884c-af6fc9c5cece27ec-full-play.gif">
